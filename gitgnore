@@ -161,6 +161,27 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
+artifacts/*
+!artifacts/tokenizer.json
+*research/model.pt
+model/*
+mlruns/*
+mlruns/0/*
+audio*
+output.json
+*devcontainer/*
+cache/*
+*test.txt
+env2/*
+whisper-ct2
+env*/
+audios/*
+requirements_inf.txt
+requirements_inference.txt
+requirements_old.txt
+requirements_test.txt
+requirements_train.txt
 /.DS_Store
 .DS_Store
 src/.DS_Store

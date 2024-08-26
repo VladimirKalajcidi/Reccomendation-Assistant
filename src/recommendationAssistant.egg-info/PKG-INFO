@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: recommendationAssistant
+Version: 0.0.0
+Summary: A small python package for recommendations
+Home-page: https://gitlab.com/VladimirKalajcidi/Recommendation-Assistent
+Author: VladimirKalajcidi
+Author-email: vovchik2006kalaychidi@gmail.com
+Project-URL: Bug Tracker, https://gitlab.com/VladimirKalajcidi/Recommendation-Assistent/issues
+
+# RECCOMENDATION ASSISTANT
+
+|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zytoYEWeo2HULtUaTkH5nKZJNk5SQgD8?usp=sharing)|

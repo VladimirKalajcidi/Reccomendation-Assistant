@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/recommendationAssistant.egg-info/PKG-INFO
+src/recommendationAssistant.egg-info/SOURCES.txt
+src/recommendationAssistant.egg-info/dependency_links.txt
+src/recommendationAssistant.egg-info/top_level.txt
